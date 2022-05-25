@@ -2,7 +2,7 @@
 #usage
 #python3 install_split_apk <path_containing_splitted_apks>
 #tested on OSX
-#author twitter.com/@mustarafan
+#author twitter.com/@mustafaran
 
 import os
 import random,sys
