@@ -2,7 +2,7 @@
 #usage
 #python3 pull_apk_from_device.py <path_to_write_splitted_apks> <packegename_or_some_part_of_it>
 #tested on OSX
-#twitter.com/@mustarafan
+#twitter.com/@mustafaran
 
 import os
 import sys
